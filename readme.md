@@ -7,15 +7,19 @@
 
 ## 構築手順
 
-### 1. docker-compose.yml ファイルを 作成したフォルダに挿入
+### 1. Zip をダウンロードして、作業フォルダ内で解凍
+<img width="932" height="430" alt="image" src="https://github.com/user-attachments/assets/2c59b80b-cd37-4b3c-92d6-25fa92041cc4" />
+
+
+### 2. docker-compose.yml ファイルを 作成したフォルダに挿入
 <img width="648" height="148" alt="image" src="https://github.com/user-attachments/assets/572c813e-ef43-449b-8501-b14ddd219623" />
 
 
-### 2. 作成したフォルダ内の空白の部分で [Shift 長押し] + [マウス右クリック] を押して Codeで開く
+### 3. 作成したフォルダ内の空白の部分で [Shift 長押し] + [マウス右クリック] を押して Codeで開く
 <img width="594" height="529" alt="image" src="https://github.com/user-attachments/assets/61077880-3acf-4294-860e-cccf39d567b0" />
 
 
-### 3. [Ctrl] + [Shift] + [@] ボタンを同時押しでターミナルが表示後、 以下のコマンドを実行する
+### 4. [Ctrl] + [Shift] + [@] ボタンを同時押しでターミナルが表示後、 以下のコマンドを実行する
 ```bash
 docker compose up -d
 ```
