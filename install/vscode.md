@@ -25,3 +25,4 @@ https://code.visualstudio.com/download
 ### 7. 『日本語化』拡張機能をインストール
 https://github.com/user-attachments/assets/84093e3b-b66a-468e-a442-7cf48cc205f7
 
+### 8. パソコンの再起動をして おわり
