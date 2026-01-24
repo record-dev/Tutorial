@@ -1,7 +1,5 @@
 
-# インストール手順
-
-## 構築手順
+## インストール手順
 
 ### 1. Docker のインストール
 https://www.docker.com/ja-jp/get-started/
