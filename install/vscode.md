@@ -1,7 +1,5 @@
 
-# VSCODE 環境構築
-
-## 構築手順
+## インストール手順
 
 ### 1. VSCODE のインストール
 https://code.visualstudio.com/download
