@@ -11,6 +11,18 @@ https://www.docker.com/ja-jp/get-started/
 ### 3. インストールが完了後、Close
 <img width="713" height="494" alt="image" src="https://github.com/user-attachments/assets/7956b3ce-44e7-484f-b27d-c8e6564ed0cd" />
 
+### ⚠ 例外発生時 ⚠
+エラー： `WSL needs updating` </br>
+下記画像のようなエラーが出たら Windows PowerShell を管理者権限で開き、以下のコマンドを入力して実行してアップデートをしてください。
+```bash
+wsl --update
+```
+<img width="1162" height="772" alt="image" src="https://github.com/user-attachments/assets/61d4cf75-119e-43ae-96ba-38181914987a" />
+<img width="1029" height="919" alt="image" src="https://github.com/user-attachments/assets/b56c1639-7555-4b25-bb3a-9588b131c439" />
+<img width="1072" height="924" alt="image" src="https://github.com/user-attachments/assets/b8a945c6-d73f-435d-bc60-d12b3def010b" />
+<img width="1117" height="860" alt="image" src="https://github.com/user-attachments/assets/c7caca5c-d902-4677-8d1c-e0e67818b92b" />
+
+
 ### 4. 利用規約に同意 Accept
 <img width="797" height="504" alt="image" src="https://github.com/user-attachments/assets/e5dc2ecc-dcaa-4ee1-ade1-94fd1ff54486" />
 
